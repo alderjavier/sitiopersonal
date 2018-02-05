@@ -1,0 +1,14 @@
+.section{
+    text-align: center; 
+    color: black;
+}
+.section p{
+    font-size: 35px;
+    color: #858986;
+}
+.information{
+    display: block;
+    position: absolute;
+    background-color: white;
+}
+
